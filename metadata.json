@@ -2,5 +2,15 @@
     "name": "FATE COIN",
     "symbol": "FC",
     "description": "A memecoin powered by FATE and chaos.",
-    "image": "https://i.imgur.com/VuCUUYH.jpeg"
+    "image": "https://i.imgur.com/VuCUUYH.jpeg",
+    "attributes": [],
+    "properties": {
+        "files": [
+            {
+                "uri": "https://i.imgur.com/VuCUUYH.jpeg",
+                "type": "image/jpeg"
+            }
+        ],
+        "category": "image"
+    }
 }
